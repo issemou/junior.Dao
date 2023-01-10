@@ -1,0 +1,12 @@
+C:\Users\cedric\source\repos\Junior\Junior.Common\bin\Debug\Junior.Common.dll
+C:\Users\cedric\source\repos\Junior\Junior.Common\bin\Debug\Junior.Common.pdb
+C:\Users\cedric\source\repos\Junior\Junior.Common\obj\Debug\Junior.Common.csprojAssemblyReference.cache
+C:\Users\cedric\source\repos\Junior\Junior.Common\obj\Debug\Junior.Common.csproj.CoreCompileInputs.cache
+C:\Users\cedric\source\repos\Junior\Junior.Common\obj\Debug\Junior.Common.dll
+C:\Users\cedric\source\repos\Junior\Junior.Common\obj\Debug\Junior.Common.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.Common\bin\Debug\Junior.Common.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.Common\bin\Debug\Junior.Common.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.Common\obj\Debug\Junior.Common.csprojAssemblyReference.cache
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.Common\obj\Debug\Junior.Common.csproj.CoreCompileInputs.cache
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.Common\obj\Debug\Junior.Common.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.Common\obj\Debug\Junior.Common.pdb

@@ -1,0 +1,12 @@
+C:\Users\cedric\source\repos\Junior\Junior.BO\bin\Debug\Junior.BO.dll
+C:\Users\cedric\source\repos\Junior\Junior.BO\bin\Debug\Junior.BO.pdb
+C:\Users\cedric\source\repos\Junior\Junior.BO\obj\Debug\Junior.BO.csprojAssemblyReference.cache
+C:\Users\cedric\source\repos\Junior\Junior.BO\obj\Debug\Junior.BO.csproj.CoreCompileInputs.cache
+C:\Users\cedric\source\repos\Junior\Junior.BO\obj\Debug\Junior.BO.dll
+C:\Users\cedric\source\repos\Junior\Junior.BO\obj\Debug\Junior.BO.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BO\bin\Debug\Junior.BO.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BO\bin\Debug\Junior.BO.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BO\obj\Debug\Junior.BO.csprojAssemblyReference.cache
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BO\obj\Debug\Junior.BO.csproj.CoreCompileInputs.cache
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BO\obj\Debug\Junior.BO.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BO\obj\Debug\Junior.BO.pdb

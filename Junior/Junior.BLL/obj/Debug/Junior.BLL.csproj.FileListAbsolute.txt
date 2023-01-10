@@ -1,0 +1,22 @@
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\bin\Debug\Junior.BLL.dll
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\bin\Debug\Junior.BLL.pdb
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\bin\Debug\Junior.BO.dll
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\bin\Debug\Junior.Common.dll
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\bin\Debug\Junior.BO.pdb
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\bin\Debug\Junior.Common.pdb
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\obj\Debug\Junior.BLL.csprojAssemblyReference.cache
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\obj\Debug\Junior.BLL.csproj.CoreCompileInputs.cache
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\obj\Debug\Junior.BLL.csproj.CopyComplete
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\obj\Debug\Junior.BLL.dll
+F:\TIC_Cours\TI_PAM2\Deuxieme_Trimestre\ADOT.NET\Junior\Junior.BLL\obj\Debug\Junior.BLL.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\bin\Debug\Junior.BLL.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\bin\Debug\Junior.BLL.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\bin\Debug\Junior.BO.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\bin\Debug\Junior.Common.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\bin\Debug\Junior.BO.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\bin\Debug\Junior.Common.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\obj\Debug\Junior.BLL.csprojAssemblyReference.cache
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\obj\Debug\Junior.BLL.csproj.CoreCompileInputs.cache
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\obj\Debug\Junior.BLL.csproj.CopyComplete
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\obj\Debug\Junior.BLL.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.BLL\obj\Debug\Junior.BLL.pdb

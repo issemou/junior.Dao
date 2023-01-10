@@ -1,0 +1,22 @@
+C:\Users\cedric\source\repos\Junior\Junior.DAL\bin\Debug\Junior.DAL.dll
+C:\Users\cedric\source\repos\Junior\Junior.DAL\bin\Debug\Junior.DAL.pdb
+C:\Users\cedric\source\repos\Junior\Junior.DAL\bin\Debug\Junior.BO.dll
+C:\Users\cedric\source\repos\Junior\Junior.DAL\bin\Debug\Junior.Common.dll
+C:\Users\cedric\source\repos\Junior\Junior.DAL\bin\Debug\Junior.BO.pdb
+C:\Users\cedric\source\repos\Junior\Junior.DAL\bin\Debug\Junior.Common.pdb
+C:\Users\cedric\source\repos\Junior\Junior.DAL\obj\Debug\Junior.DAL.csprojAssemblyReference.cache
+C:\Users\cedric\source\repos\Junior\Junior.DAL\obj\Debug\Junior.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cedric\source\repos\Junior\Junior.DAL\obj\Debug\Junior.DAL.csproj.CopyComplete
+C:\Users\cedric\source\repos\Junior\Junior.DAL\obj\Debug\Junior.DAL.dll
+C:\Users\cedric\source\repos\Junior\Junior.DAL\obj\Debug\Junior.DAL.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\bin\Debug\Junior.DAL.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\bin\Debug\Junior.DAL.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\bin\Debug\Junior.BO.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\bin\Debug\Junior.Common.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\bin\Debug\Junior.BO.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\bin\Debug\Junior.Common.pdb
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\obj\Debug\Junior.DAL.csprojAssemblyReference.cache
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\obj\Debug\Junior.DAL.csproj.CoreCompileInputs.cache
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\obj\Debug\Junior.DAL.csproj.CopyComplete
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\obj\Debug\Junior.DAL.dll
+D:\TIC\TI-PAM2\TRIMESTRE1\Programmation ADO\Junior\Junior.DAL\obj\Debug\Junior.DAL.pdb
